@@ -1,0 +1,99 @@
+**Produce:**
+- Apples
+- Bell peppers
+- Broccoli
+- Carrots
+- Cucumber
+- Garlic
+- Ginger
+- Kale
+- Lemons
+- Lettuce
+- Oranges
+- Peas (Frozen)
+- Potatoes
+- Tomatoes
+- Zucchini
+- Bell peppers
+- Celery
+- Onions
+- Parsley
+- Thyme
+- Bay leaves
+- Spinach
+- Mushrooms
+- Avocado
+- Bell peppers (again, seems like a typo)
+- Carrots (possibly repeated)
+- Kale (potentially repeated)
+- Zucchini (might be repeated)
+- Blueberries
+- Strawberries
+- Raspberries (not on the list, assuming missing)
+- Blackberries (not on the list, assuming missing)
+
+**Dairy:**
+- Milk
+- Yogurt
+- Cheese (Cheddar, Parmesan)
+- Butter
+
+**Meat & Seafood:**
+- Chicken breast
+- Salmon
+- Ground turkey
+- Tuna (canned)
+
+**Bakery:**
+- Whole wheat bread
+- Whole grain crackers
+
+**Beverages:**
+- Coffee
+- Green tea
+- Soy milk (not on the list, assuming missing)
+- Coconut milk
+- Almond milk (not on the list, assuming missing)
+- Oat milk (not on the list, assuming missing)
+
+**Snacks:**
+- Popcorn kernels
+- Dark chocolate
+- Tortilla chips
+- Salsa
+
+**Frozen Foods:**
+- Frozen peas
+
+**Pantry Staples:**
+- Oats
+- Rice (Brown, White)
+- Pasta
+- Canned corn
+- Lentils
+- Quinoa
+- Sunflower seeds
+- Almonds
+- Peanut butter
+- Honey
+- Maple syrup
+- Soy sauce
+- Tomato sauce
+- Canned tuna (already in Meat & Seafood, but can be included here as well)
+
+**Condiments:**
+- Mustard
+- Mayonnaise
+
+**Baking Supplies:**
+- Flour
+- Sugar
+- Baking powder
+- Cinnamon
+- Vanilla extract
+
+**Fruits (additional):**
+- Raspberries (not on the list)
+- Blackberries (not on the list)
+
+This categorization and sorting should be a good starting point, but there may be some overlap or potential errors due to missing items in the original list.
